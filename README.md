@@ -1,6 +1,6 @@
 # Provisionning-AWS-Infra-with-Terraform
 
--my first project with terraform in ITI
+*my first project with terraform in ITI
 #How to run 
 1-export AWS_ACCESS_KEY_ID="*************"
 2-export AWS_SECRET_ACCESS_KEY="******"

@@ -1,0 +1,4 @@
+.terraform
+.terraform.lock.hcl
+LAB1.zip
+terraform.tfstate.backup
